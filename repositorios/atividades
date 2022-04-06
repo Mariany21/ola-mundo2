@@ -1,4 +1,4 @@
 print("Estou aprendendo python")
 print("oi, tudo bem?")
-
+pensamento = print("estou com fome") 
 
